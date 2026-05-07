@@ -1,0 +1,7 @@
+apiVersion: aws.platform.upbound.io/v1alpha1
+kind: Bucket
+metadata:
+  name: my-test-bucket-bernardo
+  namespace: default
+spec:
+  region: eu-west-1
